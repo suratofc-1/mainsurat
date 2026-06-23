@@ -4,6 +4,12 @@ export const metadata = {
   title: 'SURAT4D - Platform Terpercaya & Profesional',
   description: 'Daftar dan rasakan pengalaman bermain terbaik dengan sistem keamanan terenkripsi dan layanan 24/7.',
   keywords: ['SURAT4D', 'situs hiburan digital', 'platform terpercaya', 'game online resmi', 'daftar surat4d'],
+  
+  // Verifikasi GSC otomatis
+  verification: {
+    google: 'OoCTB5Tyzd2T1mYa3noTO5eAnc4BHilbv7rUwJJsvVQ',
+  },
+
   openGraph: {
     title: 'SURAT4D - Platform Terpercaya & Profesional',
     description: 'Daftar dan rasakan pengalaman bermain terbaik dengan sistem keamanan terenkripsi dan layanan 24/7.',
