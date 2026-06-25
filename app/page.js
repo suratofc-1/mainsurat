@@ -282,14 +282,14 @@ return ( <main className="h-screen flex flex-col bg-[#0b1022] text-white overflo
 
       <div className="grid grid-cols-2 gap-3">
         <a
-          href="https://suratsekarang.com/"
+          href="https://suratsekarang.com/?ref=linkhk/"
           className="bg-blue-600 text-center py-4 rounded-xl font-bold"
         >
           DAFTAR
         </a>
 
         <a
-          href="https://suratsekarang.com/"
+          href="https://suratsekarang.com/?ref=linkhk/"
           className="bg-blue-700 text-center py-4 rounded-xl font-bold border border-blue-600"
         >
           LOGIN
